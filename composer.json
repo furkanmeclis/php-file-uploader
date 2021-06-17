@@ -1,0 +1,22 @@
+{ 
+    "name": "furkanmeclis/file-uploader",
+    "description": "Php için dosya yükleme sınıfı",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "furkanmeclis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Furkan Meclis",
+            "email": "gamefurkanmeclis@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.2.5"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
