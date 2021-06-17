@@ -4,7 +4,7 @@
 - Composer İle Yükleme
 
     ```bash
-    composer require furkanmeclis/php-file-uploader
+    composer require furkanmeclis/file-uploader
     ```
 - Manuel Olarak yükleme
 
